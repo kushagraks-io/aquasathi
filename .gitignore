@@ -1,0 +1,13 @@
+.venv/
+node_modules/
+frontend/dist/
+dist/
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+*.db
+.env
+.DS_Store
+.netlify/
+.agents/skills/
+.codex/skills/
